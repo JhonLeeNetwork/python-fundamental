@@ -1,2 +1,2 @@
 # This is my fist
-print("my first python programming")
+print("python programming lab")
